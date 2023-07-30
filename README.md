@@ -4,6 +4,7 @@
 ![CI](https://github.com/Chowdhury-DSP/BYOD/workflows/CI/badge.svg)
 [![License](https://img.shields.io/badge/License-GPL3-blue.svg)](https://opensource.org/licenses/GPL-3.0)
 [![Downloads](https://img.shields.io/github/downloads/Chowdhury-DSP/BYOD/total)](https://somsubhra.github.io/github-release-stats/?username=Chowdhury-DSP&repository=BYOD&page=1&per_page=30)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdanikaranyi%2FBYOD.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdanikaranyi%2FBYOD?ref=badge_shield)
 
 BYOD is a guitar effects plugin with a customisable
 signal chain that allows users to create their own guitar
@@ -84,3 +85,6 @@ have contributed!
 BYOD is open source, and is dual-licensed under the 
 General Public License Version 3. For more details, 
 please see the [licensing documentation](./docs/Licensing.md). Enjoy!
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdanikaranyi%2FBYOD.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdanikaranyi%2FBYOD?ref=badge_large)
